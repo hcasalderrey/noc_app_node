@@ -4,4 +4,6 @@ dist/
 
 #logs
 .DS_Store
-logs/
+logs/ 
+mongo/
+postgres/
